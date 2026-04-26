@@ -1,7 +1,6 @@
-This project is a multiplayer checkers game built using Java and JavaFX with a client-server architecture. It allows users to create accounts, log in, chat in a lobby, and play checkers games against other connected players in real time.
+Overview: This project is a full-stack multiplayer checkers game that allows users to play against each other in real time while communicating through both lobby and in-game chat systems. It features a client-server architecture built using Java sockets, where the server manages game state, player sessions, and communication between clients. The graphical user interface was developed using JavaFX, providing scenes for login, registration, lobby interaction, and the game board itself. Core functionality includes user authentication, game creation and joining, turn-based move validation, win detection, and rematch support between players. Additional features such as player statistics (wins, losses, and win rate) and dynamic game lists enhance the overall experience. Throughout development, several bugs were identified and resolved, including synchronization issues, improper scene transitions, and edge cases like joining full games or handling disconnects. The project demonstrates concepts in networking, concurrency, GUI design, and state management in a cohesive interactive application.
 
 Features:
-
   User Authentication:
     Register and log in with a username and password,
     Prevents duplicate logins and invalid credentials
