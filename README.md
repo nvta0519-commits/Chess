@@ -30,5 +30,8 @@ Features:
   Chat System:
     Lobby chat (broadcast & private messaging),
     In-game chat between players
+
+<img width="300" height="268" alt="image" src="https://github.com/user-attachments/assets/5564f8ce-4c84-471b-b7c3-f70648955e3a" />
+
     
 <img width="800" height="522" alt="image" src="https://github.com/user-attachments/assets/d6ddd202-bc21-4b04-9a7d-8589d252403f" />
